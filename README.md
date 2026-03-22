@@ -87,10 +87,10 @@ Choose an option from 1-4: 2
 
 ## Screenshots
 
-### Adding and Viewing Tasks
+### Adding a Task
 ![Adding a task](screenshots/todo_example_add.png)
 
-### Viewing Tasks
+### Viewing a Task
 ![Viewing a task](screenshots/todo_example_view.png)
 
 ### Removing a Task
