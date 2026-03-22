@@ -35,7 +35,7 @@ python-cli-todo-app
 
 1. Clone the repository:
 ```
-git clone https://github.com/Nstudent1/python-cli-todo-app.git
+git clone https://github.com/nickdrozario/python-cli-todo-app.git
 ```
 
 2. Navigate into the project folder:
